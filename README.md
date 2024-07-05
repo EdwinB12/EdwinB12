@@ -1,11 +1,10 @@
 Hi Everyone! I'm Edwin Brown. 
 
-I am a Machine Learning Engineer currently working at the University of Sheffield as part of the Research Software Engineer (RSE) team! 
+I am a Machine Learning Engineer currently working at the University of Sheffield as part of the Research Software Engineer (RSE) team! I am also a member of the Research Engineering Group at the Alan Turing Institute.  
 
 I am a geophysicist by training and have been focused on data science and machine learning for the last 3 years. 
 
 I help implement machine learning solutions to a wide variety of research applications. 
-
 
 Please contact me at [w.e.brown@sheffield.ac.uk](mailto:w.e.brown@sheffield.ac.uk) or via [LinkedIn](https://www.linkedin.com/in/edwin-brown-214471108/). 
 
